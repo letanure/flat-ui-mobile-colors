@@ -5,6 +5,10 @@
 .center {
   text-align: center; }
 
+.marginauto {
+  margin: 0 auto; }
+
+/* COLOR */
 div.color {
   width: 25%;
   float: left;
