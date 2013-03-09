@@ -6,7 +6,8 @@
   text-align: center; }
 
 .marginauto {
-  margin: 0 auto; }
+  margin: 0 auto;
+  width: 90%; }
 
 /* COLOR */
 div.color {
