@@ -1,0 +1,64 @@
+div#content {
+  width: 90%;
+  min-height: 10%; }
+
+div#content div.color {
+  width: 100px;
+  height: 100px; }
+
+.turquoise-bg {
+  border: 1px solid #1abc9c; }
+
+.greensea-bg {
+  border: 1px solid #16a085; }
+
+.emerland-bg {
+  border: 1px solid #2ecc71; }
+
+.nephritis-bg {
+  border: 1px solid #27ae60; }
+
+.peterriver-bg {
+  border: 1px solid #3498db; }
+
+.belizehole-bg {
+  border: 1px solid #2980b9; }
+
+.amethyst-bg {
+  border: 1px solid #9b59b6; }
+
+.wisteria-bg {
+  border: 1px solid #8e44ad; }
+
+.wetasphalt-bg {
+  border: 1px solid #34495e; }
+
+.midnightblue-bg {
+  border: 1px solid #2c3e50; }
+
+.sunflower-bg {
+  border: 1px solid #f1c40f; }
+
+.orange-bg {
+  border: 1px solid #f39c12; }
+
+.carrot-bg {
+  border: 1px solid #e67e22; }
+
+.pumpkin-bg {
+  border: 1px solid #d35400; }
+
+.alizarin-bg {
+  border: 1px solid #e74c3c; }
+
+.pomegranate-bg {
+  border: 1px solid #c0392b; }
+
+.clouds-bg {
+  border: 1px solid #ecf0f1; }
+
+.silver-bg {
+  border: 1px solid #bdc3c7; }
+
+.concrete-bg {
+  border: 1px solid #95a5a6; }
