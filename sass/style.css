@@ -1,0 +1,14 @@
+/* Hi I'm Eddie */
+body {
+  color: #f1c40f; }
+
+/* GENERAL HELPERS */
+.center {
+  text-align: center; }
+
+.clear {
+  clear: both; }
+
+/* LOGIN SECTION */
+.graybox {
+  background-color: #ecf0f1; }
