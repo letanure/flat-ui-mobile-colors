@@ -1,3 +1,10 @@
+/* GENERAL HELPERS */
+.clear {
+  clear: both; }
+
+.center {
+  text-align: center; }
+
 div#content div.color {
   width: 100px;
   height: 100px; }
