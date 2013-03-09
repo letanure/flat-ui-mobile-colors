@@ -6,6 +6,10 @@
   text-align: center; }
 
 div#content div.color {
+  width: 140px;
+  height: 140px; }
+
+div.colorblock {
   width: 100px;
   height: 100px; }
 
