@@ -7,7 +7,9 @@
 
 div.color {
   width: 140px;
-  height: 140px; }
+  height: 140px;
+  float: left;
+  margin-left: 20px; }
 
 div.color p {
   margin-top: 5px; }
@@ -17,9 +19,7 @@ div.colorblock {
   height: 100px;
   margin: 0 auto;
   margin-top: 10px;
-  margin-bottom: 10px;
-  float: left;
-  margin-left: 20px; }
+  margin-bottom: 10px; }
 
 .turquoise-bg {
   background-color: #1abc9c; }
