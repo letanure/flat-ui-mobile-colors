@@ -16,7 +16,8 @@ div.colorblock {
   width: 100px;
   height: 100px;
   margin: 0 auto;
-  margin-top: 10px; }
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 .turquoise-bg {
   background-color: #1abc9c; }
