@@ -6,6 +6,9 @@
   text-align: center; }
 
 /* COLOR */
+.hspace10 {
+  width: 10px; }
+
 div.color {
   width: 25%;
   float: left;
