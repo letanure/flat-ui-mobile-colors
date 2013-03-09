@@ -5,13 +5,18 @@
 .center {
   text-align: center; }
 
-div#content div.color {
+div.color {
   width: 140px;
   height: 140px; }
 
+div.color p {
+  margin-top: 5px; }
+
 div.colorblock {
   width: 100px;
-  height: 100px; }
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 10px; }
 
 .turquoise-bg {
   background-color: #1abc9c; }
