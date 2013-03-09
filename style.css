@@ -6,8 +6,8 @@
   text-align: center; }
 
 div.color {
-  width: 120px;
-  height: 120px;
+  width: 90px;
+  height: 90px;
   float: left;
   margin-top: 20px;
   margin-left: 10px; }
@@ -16,8 +16,8 @@ div.color p {
   margin-top: 3px; }
 
 div.colorblock {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
   margin: 0 auto;
   margin-top: 6px;
   margin-bottom: 10px; }
