@@ -9,6 +9,7 @@ div.color {
   width: 140px;
   height: 140px;
   float: left;
+  margin-top: 20px;
   margin-left: 20px; }
 
 div.color p {
